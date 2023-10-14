@@ -59,8 +59,6 @@ public class RadioTest {
     }
 
 
-
-
     @Test
     public void testCurrentStation1() {
         Radio radio = new Radio();
